@@ -1,5 +1,5 @@
-title : Life's Journey!
 ## Hi there 👋
+My interest lies in crypto, forex trading as well as developing AI apps. On my repo ull find mt4 expert advisors of different types along with binance API wrappers. 
 
 <!--
 **inamcrypto/inamcrypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
