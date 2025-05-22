@@ -1,2 +1,3 @@
-title : Life's Journey!
-This is the first line
+# Life's Journey!
+## About Me
+I'm Inam, passionate about technology and crypto. This blog shares my journey and discoveries in the digital space.
